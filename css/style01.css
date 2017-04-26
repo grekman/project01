@@ -1,0 +1,86 @@
+body {
+  min-width: 960px;
+  font-family: sans-serif, arial;
+
+}
+
+
+}
+
+.logo {
+  margin-left: 25px;
+  padding-top: 21px
+}
+
+.red-line {
+
+  height: 45px;
+  background-color: #ff454c;
+}
+
+.header-wraper {
+  background-color: white;
+  height: 123px;
+
+
+}
+
+.contacts {
+  color: #ff454c;
+  width: auto;
+  float:right;
+  padding-right: 25px;
+}
+
+h1,h2 {
+  text-align: center;
+
+}
+
+
+.main-shop {
+  padding: 10px;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+ul li {
+
+
+}
+
+.left-context {
+  border: 1px solid black;
+  float: left;
+  width: 47%;
+  padding: 1%;
+}
+
+.calculator {
+  border: 1px solid black;
+  width: 47%;
+  float:right;
+  padding: 1%;
+}
+
+.input-align {
+  width: 50%;
+  display: inline-block;
+  text-align: right;
+
+}
+
+.btn {
+  background-color: #ff454c;
+  color: white;
+  border: 1px solid black;
+  width: 130px;
+
+}
+
+.footer-shop {
+  height: 250px;
+  background-color: #ff454c;
+  display: block;
+
+}
